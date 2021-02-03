@@ -38,7 +38,7 @@ a {
 
 .followcard {
 	width: 25vw;
-	margin: 10vh auto;
+	margin: 5vh auto;
 	text-align: center;
 	background-color: white;
 	border: 1px solid #c7c9c9;
@@ -70,4 +70,14 @@ ul {
 
 .fab:hover {
   	text-shadow: 1px 1px 2px black, 0 0 15px blue, 0 0 5px darkblue;
+}
+
+button {
+	font-family: 'Balsamiq Sans', cursive;
+	border-radius: 50px;
+	font-size: 20px;
+}
+
+button:hover {
+	box-shadow: 1px 1px 5px black;
 }
