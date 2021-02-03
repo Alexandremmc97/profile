@@ -1,0 +1,73 @@
+body {
+	background-color: #d4d7d9;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h1, h3 {
+	font-family: 'Sriracha', cursive;
+}
+
+
+a {
+	color: #1b497d;
+	text-decoration: none;
+}
+
+.container {
+	text-align: center;
+}
+
+.torso {
+	width: 50vw;
+	margin: 10vh auto;
+	text-align: center;
+	background-color: white;
+	border-radius: 30px;
+	border: 1px solid #c7c9c9;
+	padding: 15px;
+	box-shadow: 1px 1px 5px black;
+}
+
+.title {
+	font-family: 'Sriracha', cursive;
+}
+
+.profileimage {
+
+}
+
+.followcard {
+	width: 25vw;
+	margin: 10vh auto;
+	text-align: center;
+	background-color: white;
+	border: 1px solid #c7c9c9;
+	border-radius: 50px;
+	padding: 10px;
+	box-shadow: 1px 1px 5px black;
+}
+
+.nobut {
+	font-family: 'Fredoka One', cursive;
+	font-size: 40px;
+}
+
+li, i {
+	font-size: 3vw;
+	padding-left: 10px;
+	padding-right: 10px;
+	display: inline-flex;
+}
+
+ul {
+	width: 20vw;
+	margin: 2vh auto;
+	padding: 0;
+	text-align: center;
+	font-size: 75px;
+	list-style: none;
+}
+
+.fab:hover {
+  	text-shadow: 1px 1px 2px black, 0 0 15px blue, 0 0 5px darkblue;
+}
